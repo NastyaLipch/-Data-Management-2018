@@ -41,8 +41,11 @@
 5.	Лицензия
 
 Creative Commons Attribution Share-Alike (cc-by-sa)
+
 Автор: Липчанская Анастасия Алексеевна
+
 E-mail: lipchanskaya_na@mail.ru
+
 Vk: https://vk.com/lipchh
 
 6.	Инструменты, форматы данных
